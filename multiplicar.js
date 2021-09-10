@@ -1,6 +1,6 @@
 
 console.clear();
-const {crearArchivo} = require("multiplicar.js")
+const {crearArchivo} = require("app.js")
 
 
 const base = 3;
