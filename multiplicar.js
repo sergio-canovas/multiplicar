@@ -3,5 +3,6 @@ console.clear();
 const {crearArchivo} = require("app.js")
 
 
-const base = 3;
+const base = 5;
 
+crearArchivo(base);
