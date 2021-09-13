@@ -1,6 +1,6 @@
 
 console.clear();
-const {crearArchivo} = require("app.js")
+const {crearArchivo} = require("app")
 
 
 const base = 5;
