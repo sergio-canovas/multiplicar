@@ -1,3 +1,3 @@
 Multiplicar
 ===========
--Practice with node. Uso of FS module and promises.
+-Practice with node. Use of FS module and promises.
