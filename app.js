@@ -9,7 +9,7 @@ const crearArchivo = async (base)=>{
     fs.writeFileSync(`tabla-${base}.txt`, salida);
     console.log("Fichero creado");
 }
-
+//export
 module.exports = {
     crearArchivo
 }
