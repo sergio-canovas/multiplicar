@@ -1,7 +1,7 @@
 const fs= require("fs");
 
 let salida = "";
-const crearArchivo = async (base)=>{
+const crearArchivo = async(base)=>{
     try{
         for(let i = 0; i<=10;i++){
             salida+=`${base} x ${i} = ${base * i}\n`
